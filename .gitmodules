@@ -1,0 +1,15 @@
+[submodule "izhv-e2"]
+	path = izhv-e2
+	url = https://github.com/shimonblunivers/izhv-e2.git
+[submodule "izhv-e3"]
+	path = izhv-e3
+	url = https://github.com/shimonblunivers/izhv-e3.git
+[submodule "izhv-e4"]
+	path = izhv-e4
+	url = https://github.com/shimonblunivers/izhv-e4.git
+[submodule "izhv-e5"]
+	path = izhv-e5
+	url = https://github.com/shimonblunivers/izhv-e5.git
+[submodule "izhv-e6"]
+	path = izhv-e6
+	url = https://github.com/shimonblunivers/izhv-e6.git
